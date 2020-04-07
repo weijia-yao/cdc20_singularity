@@ -1,6 +1,5 @@
 # Mobile Robot Path Following Control in 2D Using a 3D Guiding Vector Field
 ## Singularity Elimination and Global Convergence
-Codes for CDC20
 
 
 | File name    | Category            | Description                   |
@@ -12,7 +11,7 @@ Codes for CDC20
 | tt_plot.m    | trajectory tracking | Matlab file for plotting;     |
 | tt_animate.m | trajectory tracking | Matlab file for animation;    |
 
-
+We use Simulink in Matlab R2018b, but we have not tested other versions of Simulink and Matlab.
 
 For convenience, you could directly download the data files from [here](https://drive.google.com/open?id=1bvGdsDeV_ZGX0BHK6cfYCEdCxeM6KAby), and use the "plot" or "animation" Matlab files above to see the effects. The details of the data files are shown below.
 
