@@ -1,4 +1,4 @@
-# Mobile Robot Path Following Control in 2D Using a 3D Guiding Vector Field
+# Vector Field Guided Path Following Control:
 ## Singularity Elimination and Global Convergence
 
 
