@@ -34,3 +34,5 @@ The video can be accessed by clicking the image below:
 # Extension
 More details of creating singularity-free guiding vector fields in a higher-dimensional space will come soon. To see experiments with a fixed-wing UAV, Click this link: [Singularity-free Guiding Vector Field for Robot Navigation](http://tiny.cc/yao_singularity_video)
 
+Open source code implemented in [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page): [Code](https://github.com/noether/paparazzi/tree/gvf_advanced/sw/airborne/modules/guidance/gvf_parametric).
+
