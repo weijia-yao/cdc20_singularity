@@ -29,10 +29,10 @@ For convenience, you could directly download the data files<sup>1</sup> from [he
 ## Video
 The video can be accessed by clicking the image below:
 
-[![](fig/video_preface.png)](https://youtu.be/IBdTg0i-n_8)
+[![](fig/video_preface.png)](https://www.youtube.com/watch?v=LfXCNdyBaTs)
 
 # Extension
-More details of creating singularity-free guiding vector fields in a higher-dimensional space can be found [here](http://tiny.cc/yao_singularity). To see experiments with a fixed-wing UAV, Click this link: [Singularity-free Guiding Vector Field for Robot Navigation](https://www.youtube.com/watch?v=LfXCNdyBaTs)
+More details of creating singularity-free guiding vector fields in a higher-dimensional space can be found [here](http://tiny.cc/yao_singularity). To see experiments with a fixed-wing UAV, Click this link: [Singularity-free Guiding Vector Field for Robot Navigation](https://www.youtube.com/watch?v=jxWPsm0g-Ro&feature=youtu.be)
 
 Open source code implemented in [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page): [Code](https://github.com/noether/paparazzi/tree/gvf_advanced/sw/airborne/modules/guidance/gvf_parametric).
 
